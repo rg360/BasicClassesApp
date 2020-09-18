@@ -1,0 +1,12 @@
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.csprojAssemblyReference.cache
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.AssemblyInfoInputs.cache
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.AssemblyInfo.cs
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.csproj.CoreCompileInputs.cache
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.deps.json
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.runtimeconfig.json
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.runtimeconfig.dev.json
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.dll
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/bin/Debug/netcoreapp3.1/BasicClasses.pdb
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.dll
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.pdb
+/Users/rg/Desktop/Projects/Repository/BasicClassesApp/BasicClasses/obj/Debug/netcoreapp3.1/BasicClasses.genruntimeconfig.cache
